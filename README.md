@@ -1,29 +1,24 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# 3D Portfolio Website with Three.js and React.js
 
 ## Welcome! 👋
-
+## Overview
 Thanks for checking out this Application.
 
-![Youtube](./assets/web-view01.gif)
+![Portfolio](./views/view01.gif)
 
-## Overview
-Uber Clone Android Application with fully functional maps.
 
 ### Links
 
-- App URL: [Github](https://github.com/shaheen7a/Uber-Clone-mobile-app.git)
+- App URL: [Github](https://github.com/shaheen7a/3D-Web-Developer-Portfolio.git)
+- Live Site: [Netlify](https://3d-shaheen-portfolio.netlify.app/)
 
 ## My process
-
 ### Built with
 
-- React Native
-- React Navigation
-- NativeWind
-- RN Elements
-- ToTo Maps
-- React NAtive AutoComplete
+- React.js
+- Three.js
+- TailWind
+- Material UI
 - CSS
 - JavaScript
 - JSX
