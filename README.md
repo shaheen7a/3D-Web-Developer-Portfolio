@@ -1,8 +1,10 @@
 # 3D Portfolio Website with Three.js and React.js
 
 ## Welcome! 👋
+
 ## Overview
 Thanks for checking out this Application.
+This web page is a portfolio of 3D work. It features a variety of projects, including architectural visualizations, product renders, and character designs. Users can view the projects in detail, and they can also download the 3D models.
 
 ![Portfolio](./views/view01.gif)
 
